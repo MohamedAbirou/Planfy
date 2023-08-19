@@ -1,5 +1,5 @@
 #Planify
-![pic1](https://github.com/Liam-Piro/Planify/assets/109366637/c441127f-827e-4669-92ce-033d27b2620b)
-![pic2](https://github.com/Liam-Piro/Planify/assets/109366637/43c1f8b3-66c8-4954-bf7b-12ff21db20c3)
-![pic3](https://github.com/Liam-Piro/Planify/assets/109366637/5da7584f-f9c3-4456-99b6-91a6c5a57fec)
-![pic4](https://github.com/Liam-Piro/Planify/assets/109366637/8808c192-dba5-45f8-ab2d-6bcdc7b24987)
+![pic1](https://github.com/Liam-Piro/Planify/assets/109366637/4d3ca7a9-b561-4e09-9d74-53aa9b524a61)
+![pic2](https://github.com/Liam-Piro/Planify/assets/109366637/9eb4da4d-68ed-4a43-bcd4-82797c3a1caf)
+![pic3](https://github.com/Liam-Piro/Planify/assets/109366637/a73d8966-e6fc-43cc-91a3-dd75cc033c17)
+![pic4](https://github.com/Liam-Piro/Planify/assets/109366637/2794edee-2667-494f-9bd0-1d5875e2b449)
